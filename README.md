@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryan7440
-- 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning IIIT pune,india
+- 👀 I’m interested in Data Structures and algorithms
+- 🌱 I’m currently learning MERN stack !!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aryanshukla744@gmail.com
 
